@@ -1,0 +1,5 @@
+<span style="color: green">Server:  dns.google</span>
+<span style="color: green">Address:  8.8.8.8</span>
+<span style="color: green">Name:    facebook.com</span>
+<span style="color: green">Addresses:  2a03:2880:f10c:381:face:b00c:0:25de</span>
+<span style="color: green">	  157.240.235.35</span>
